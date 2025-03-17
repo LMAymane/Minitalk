@@ -68,5 +68,5 @@ minitalk/
 ├── Makefile             # Compilation automation  
 ├── server.c             # Server program to receive and decode messages  
 ├── client.c             # Client program to send messages  
-├── utils              # Helper functions (e.g., bitwise operations)  
+├── utils                # Helper functions
 └── minitalk.h           # Header file with function prototypes and constants  
